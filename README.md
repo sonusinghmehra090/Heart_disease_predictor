@@ -1,5 +1,5 @@
 # Heart_disease_predictor
-## Build and end-to-end supervised ML pipeline using Random Forest , Decision Tree , Logistic regression , KNN and SVM to Predict Heart Diease classification along with EDA , feature engineering & model evaluation using accuracy , recall , f1 score
+## Build and end-to-end supervised ML pipeline using Random Forest , Decision Tree , Logistic regression , KNN and SVM to Predict Heart Disease classification along with EDA , feature engineering & model evaluation using accuracy , recall , f1 score
 ### MODEL - Analyzing Peoples health Report to Predict the Heart Disease Chances of an Indiviual
 
 ### Finding the best optimize model for our predictor
